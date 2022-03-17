@@ -63,8 +63,6 @@ To do:
 
 ## Acknowledgements
 
-Give credit here.
-
 - This project was inspired by Codecademy project ideas
 
 ## Contact
