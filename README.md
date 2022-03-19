@@ -16,11 +16,10 @@
 
 ## General Information
 
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+  This project is to make a terminal progam with python will using the input() function.
+  Alongside that to showcase my abilities to use git version control, comand line, and file navigation.
 
 ## Technologies Used
 
@@ -28,22 +27,20 @@
 
 ## Features
 
-- RNG Action
+- RNG Choices
 - Rich Story
 - Quick Playtime
 
 ## Screenshots
 
-![Example screenshot](./img/screenshot.png)
-
-<!-- If you have screenshots you'd like to share, include them here. -->
+![Example screenshot](./img/gyazoByTheFire.png)
 
 ## Usage
 
-How does one go about using it?
-Provide various use cases and code examples here.
+To run the program download the main file.
+Then type the following code bellow in the path of that file in your terminal.
 
-`write-your-code-here`
+`python main.py`
 
 ## Project Status
 
