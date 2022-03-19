@@ -47,13 +47,13 @@ Project is: _in progress_
 
 Room for improvement:
 
-- Refactoring of the code to look prettier
+- A third story option
 - Logic to showcase RNG attack and fighting
 
 To do:
 
 - Pick a starting weapon or health potion
-- A third option story option
+- Refactoring of the code to look prettier
 
 ## Acknowledgements
 
