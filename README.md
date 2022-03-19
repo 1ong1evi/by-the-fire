@@ -16,10 +16,7 @@
 
 ## General Information
 
-- What is the purpose of your project?
-- Why did you undertake it?
-  This project is to make a terminal progam with python will using the input() function.
-  Alongside that to showcase my abilities to use git version control, comand line, and file navigation.
+This project is to make a terminal progam with python will using the input() function. Alongside that to showcase my abilities to use git version control, comand line, and file navigation.
 
 ## Technologies Used
 
@@ -50,13 +47,13 @@ Project is: _in progress_
 
 Room for improvement:
 
-- Improvement to be done 1
-- Improvement to be done 2
+- Refactoring of the code to look prettier
+- Logic to showcase RNG attack and fighting
 
 To do:
 
-- Feature to be added 1
-- Feature to be added 2
+- Pick a starting weapon or health potion
+- A third option story option
 
 ## Acknowledgements
 
