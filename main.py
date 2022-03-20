@@ -18,7 +18,7 @@ Getting late, you decide to set up camp. Before falling asleep,
 you made a fire to cook up some dried meat you packed.
 Then all of sudden halfway through cooking it, you hear a noise in the woods.
     """)
-
+# Intro to the story & first question
 investigate = input("Do you go checkout the noise? (y/n) ")
 if investigate == "n":
     print(
