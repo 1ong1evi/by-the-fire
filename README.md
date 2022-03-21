@@ -49,10 +49,6 @@ Room for improvement:
 
 - A third story option
 - Logic to showcase RNG attack and fighting
-
-To do:
-
-- Pick a starting weapon or health potion
 - Refactoring of the code to look prettier
 
 ## Acknowledgements
