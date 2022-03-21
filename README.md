@@ -34,7 +34,7 @@ This project is to make a terminal progam with python will using the input() fun
 
 ## Usage
 
-To run the program download the main file.
+To run the program download the main file or import the code into a main file.
 Then type the following code bellow in the path of that file in your terminal.
 
 `python main.py`
