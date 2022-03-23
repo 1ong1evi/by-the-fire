@@ -41,6 +41,7 @@ You have a 50% chance do you take it? (y/n) """)
             seq = [two, one]
             print(random.choice(seq))
 elif sneak == "y":
+    # logic for death
     print("""\nYou rush in to only be met by a deformed animal with orange-red eyes.
 You turn your back to it while running back to your camp.
 That's when you feel its sharp claws puncturing into both of your shoulders.
