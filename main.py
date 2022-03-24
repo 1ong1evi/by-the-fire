@@ -24,6 +24,7 @@ if investigate == "n":
     print("\nYou sleep through the cold night, to live another day.\nSafe travels, traveler.")
 sneak = input("\nYou are approaching the sound. Do you rush in? (y/n) ")
 if sneak == "n":
+    # first sight of strange figure
     strange_figure = input(
         "\nYou see a strange animal. Tall and standing on its hind legs.\n Do you continue to sneak to get a better look? (y/n) ")
     if strange_figure == "n":
