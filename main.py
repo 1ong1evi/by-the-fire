@@ -37,9 +37,11 @@ You have a 50% chance do you take it? (y/n) """)
         if sneak_attack == "n":
             print("\nUneasy about your chances you decide to sneak back to camp.\nYou sleep through the cold night, to live another day.\nSafe travels, traveler.")
         elif sneak_attack == "y":
+            # attack sequence
             one = "\nThe closer you get the more you second guess yourself.\nYou get one step away when you step on a leaf. The skinwalker turns around\nand gives out a loud screech, you try to swing at it with your sword but you miss. It slashes at your throat.\nYou try to stay upright but you fall to your knees. Then to the floor of \nthe forest. You try to scream but it was only a thought"
             two = "\nThe closer you get the more you second guess yourself.\nYou pull out your knife that was dipped in white ash. You smell the stench\nof death the skinwalker reeks of. In an instances you slit the skinwalker's throat. It drops to its knees without\na peep. You drag the it back to your camp."
             seq = [two, one]
+            # chooses between two endings
             print(random.choice(seq))
 elif sneak == "y":
     # logic for death
