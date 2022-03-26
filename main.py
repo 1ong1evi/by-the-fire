@@ -30,6 +30,7 @@ if sneak == "n":
     if strange_figure == "n":
         print("\nWeary of your travels you decide to head back to camp.\nYou sleep through the cold night, to live another day.\nSafe travels, traveler.")
     elif strange_figure == "y":
+        # sneak attack has a 50% chance to hit text to the user
         sneak_attack = input("""
 You see a deformed animal with orange-red eyes. Remembering of past conversations of the previous
 the village you know this a skinwalker. Due to you sneaking you have a chance to kill it. 
