@@ -36,6 +36,7 @@ You see a deformed animal with orange-red eyes. Remembering of past conversation
 the village you know this a skinwalker. Due to you sneaking you have a chance to kill it. 
 You have a 50% chance do you take it? (y/n) """)
         if sneak_attack == "n":
+            # "no" continues with the safe travels text
             print("\nUneasy about your chances you decide to sneak back to camp.\nYou sleep through the cold night, to live another day.\nSafe travels, traveler.")
         elif sneak_attack == "y":
             # attack sequence
