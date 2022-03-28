@@ -28,6 +28,7 @@ if sneak == "n":
     strange_figure = input(
         "\nYou see a strange animal. Tall and standing on its hind legs.\n Do you continue to sneak to get a better look? (y/n) ")
     if strange_figure == "n":
+        # logic if you said no to the get a better look "safe travels"
         print("\nWeary of your travels you decide to head back to camp.\nYou sleep through the cold night, to live another day.\nSafe travels, traveler.")
     elif strange_figure == "y":
         # sneak attack has a 50% chance to hit text to the user
