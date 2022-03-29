@@ -21,6 +21,7 @@ Then all of sudden halfway through cooking it, you hear a noise in the woods.
 # Intro to the story & first question
 investigate = input("Do you go checkout the noise? (y/n) ")
 if investigate == "n":
+    # no responds with safe travels
     print("\nYou sleep through the cold night, to live another day.\nSafe travels, traveler.")
 sneak = input("\nYou are approaching the sound. Do you rush in? (y/n) ")
 if sneak == "n":
