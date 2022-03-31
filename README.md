@@ -1,6 +1,6 @@
 # By the Fire
 
-> Text-Based Adventure as a Wandering Mercenary
+> Text-Based Adventure as a Wandering Traveler
 
 ## Table of Contents
 
