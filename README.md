@@ -16,7 +16,7 @@
 
 ## General Information
 
-This project is to make a terminal progam with python will using the input() function.
+This project is to make a terminal progam with python while using the input() function.
 Alongside that to showcase my abilities to use git version control, python, comand line, and file navigation.
 
 ## Technologies Used
