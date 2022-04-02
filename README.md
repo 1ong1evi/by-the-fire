@@ -51,6 +51,7 @@ Room for improvement:
 - A third story option
 - Logic to showcase RNG attack and fighting
 - Refactoring of the code to look prettier
+- Item selection at the beginning
 
 ## Acknowledgements
 
